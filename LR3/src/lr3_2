@@ -1,0 +1,10 @@
+#include <iostream>
+#include <stdio.h>
+using namespace std;
+
+int main() {
+	float sum = 0;
+	printf("Sum is %3.2f",sum);
+
+	return 0;
+}
