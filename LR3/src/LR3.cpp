@@ -13,7 +13,7 @@ using namespace std;
 int main() {
 //	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	float sum = 0;
-	for(int i=1;i<=200;i++)
+	for(int i=1;i<=600;i++)
 	{
 		sum+=i;
 	}
