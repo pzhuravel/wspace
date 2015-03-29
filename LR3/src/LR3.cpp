@@ -11,12 +11,13 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+//	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	float sum = 0;
-	for(int i=1;i<=10;i++)
+	for(int i=1;i<=100;i++)
 	{
 		sum+=i;
 	}
 	printf("Sum is %3.2f",sum);
+
 	return 0;
 }
